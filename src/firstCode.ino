@@ -829,3 +829,6 @@ void key_sequencerRPi() {
       demoLoops = demoLoops + 1;
       display.setCursor(0, 2); display.print("Loop counter: "); display.print(demoLoops);
         }}}
+
+
+// Remember to use size qith https://support.arduino.cc/hc/en-us/articles/360013825179-Reduce-the-size-and-memory-usage-of-your-sketch
